@@ -15,8 +15,9 @@
 }
 @media (max-width: 768px) {
         body {
-                font-family: 'Roboto', Verdana, 'Geneva', Tahoma, sans-serif;
-                background: linear-gradient(#ffd480, #ffe6b3, #ffd480) fixed;
+                font-family: 'Comfortaa';
+                background: url(“https://images.unsplash.com/photo-1513728731559-6bf2c0c931f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMGNsb3VkfGVufDB8fDB8fHww&w=1000&q=80”) fixed;
+                background-repeat: no-repeat;
         /* DON'T CHANGE BELOW */
                 width: auto !important;
                 min-width: 600px;
@@ -26,11 +27,11 @@
 /* Headers */
 h1, h2, h3 {
         color: #1a1100;
-        font-family: 'Comfortaa', 'Times New Roman', Times, serif;
+        font-family: 'Comfortaa';
 }
 .sidebar h3 {
         color: #1a1100;
-        font-family: ‘Comfortaa', 'Times New Roman', Times, serif;
+        font-family: ‘Comfortaa';
 }
 /* Other Text */
 p {
